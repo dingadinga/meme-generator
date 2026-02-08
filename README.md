@@ -23,5 +23,5 @@ A simple, elegant web-based meme generator that allows you to create memes by ad
 ### Installation
 
 1. Clone this repository:
-git clone https://github.com/YOUR_USERNAME/meme-generator.git
+git clone https://github.com/dingadinga/meme-generator.git
 cd meme-generator
